@@ -22,8 +22,8 @@ function IntroContent() {
                         <span className="big-text"></span>
                     </h1>
                     <p>
-                        With over 6 years of experience in the dynamic field of
-                        software engineering, I have had the privilege of
+                        hi With over 6 years of experience in the dynamic field
+                        of software engineering, I have had the privilege of
                         contributing to various aspects of the industry. My
                         journey in technology has been marked by a commitment to
                         innovation, problem-solving, and continuous learning.
